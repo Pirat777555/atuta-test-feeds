@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-09-08T12:50:00+03:00</generation-date>
+  <offer internal-id="ATUTA-YRL-001">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>прямая продажа</deal-status>
+    <creation-date>2026-09-01T10:15:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:30:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Ростов-на-Дону</locality-name>
+      <address>Пушкинская улица, 100</address>
+      <apartment>25</apartment>
+      <longitude>39.7233</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>7500000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>65.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>39.8</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>https://picsum.photos/seed/atuta-yrl-1-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-5/1200/800.jpg</image>
+    <description>Продается тестовая двухкомнатная квартира площадью 65,4 кв. м. Кухня 12,1 кв. м, комнаты изолированные. Квартира расположена на 5 этаже 10-этажного кирпичного дома. Выполнен современный ремонт, есть балкон. Объявление создано специально для проверки импорта XML-фида Яндекс Недвижимости в Atuta.</description>
+    <rooms>2</rooms>
+    <rooms-offered>2</rooms-offered>
+    <floor>5</floor>
+    <floors-total>10</floors-total>
+    <renovation>евроремонт</renovation>
+    <building-type>кирпичный</building-type>
+    <built-year>2018</built-year>
+    <ceiling-height>2.75</ceiling-height>
+    <balcony>балкон</balcony>
+    <bathroom-unit>совмещенный</bathroom-unit>
+  </offer>
+  <offer internal-id="ATUTA-YRL-002">
+    <type>аренда</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-02T09:20:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:31:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Ростов-на-Дону</locality-name>
+      <address>Будённовский проспект, 25</address>
+      <apartment>71</apartment>
+      <latitude>47.2228</latitude>
+      <longitude>39.7187</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>35000</value>
+      <currency>RUR</currency>
+      <period>месяц</period>
+    </price>
+    <utilities-included>нет</utilities-included>
+    <rent-pledge>да</rent-pledge>
+    <area>
+      <value>42.0</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>25.0</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>9.0</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>https://picsum.photos/seed/atuta-yrl-2-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-2-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-2-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-2-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-2-5/1200/800.jpg</image>
+    <description>Сдается тестовая однокомнатная квартира на длительный срок. Общая площадь 42 кв. м, кухня 9 кв. м. В квартире есть мебель, холодильник, стиральная машина и кондиционер. Используется для проверки импорта аренды, периода оплаты и залога.</description>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>7</floor>
+    <floors-total>16</floors-total>
+    <renovation>евроремонт</renovation>
+    <balcony>лоджия</balcony>
+  </offer>
+  <offer internal-id="ATUTA-YRL-003">
+    <type>аренда</type>
+    <property-type>жилая</property-type>
+    <category>комната</category>
+    <creation-date>2026-09-03T08:30:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:32:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Таганрог</locality-name>
+      <address>Петровская улица, 45</address>
+      <apartment>18</apartment>
+      <latitude>47.2204</latitude>
+      <longitude>38.9173</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>15000</value>
+      <currency>RUR</currency>
+      <period>месяц</period>
+    </price>
+    <rent-pledge>нет</rent-pledge>
+    <area>
+      <value>62.0</value>
+      <unit>кв. м</unit>
+    </area>
+    <room-space>
+      <value>18.0</value>
+      <unit>кв. м</unit>
+    </room-space>
+    <living-space>
+      <value>18.0</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>10.0</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>https://picsum.photos/seed/atuta-yrl-3-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-3-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-3-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-3-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-3-5/1200/800.jpg</image>
+    <description>Сдается тестовая комната площадью 18 кв. м в трехкомнатной квартире. Комната изолированная, квартира находится на 2 этаже. Фид проверяет категорию комнаты, количество комнат в квартире и количество сдаваемых комнат.</description>
+    <rooms>3</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+  </offer>
+  <offer internal-id="ATUTA-YRL-004">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>дом с участком</category>
+    <deal-status>прямая продажа</deal-status>
+    <creation-date>2026-09-03T12:00:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:33:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Батайск</locality-name>
+      <address>Садовая улица, 12</address>
+      <latitude>47.1390</latitude>
+      <longitude>39.7510</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>9800000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>120</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>78</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>18</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <lot-area>
+      <value>6</value>
+      <unit>сотка</unit>
+    </lot-area>
+    <lot-type>ИЖС</lot-type>
+    <image>https://picsum.photos/seed/atuta-yrl-4-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-4-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-4-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-4-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-4-5/1200/800.jpg</image>
+    <description>Продается тестовый двухэтажный дом площадью 120 кв. м на участке 6 соток. Четыре комнаты, кухня 18 кв. м. Подключены электричество, вода, газ и канализация. Объявление предназначено для проверки импорта дома с участком и инженерных коммуникаций.</description>
+    <rooms>4</rooms>
+    <floors-total>2</floors-total>
+    <building-type>кирпичный</building-type>
+    <built-year>2015</built-year>
+    <electricity-supply>да</electricity-supply>
+    <water-supply>да</water-supply>
+    <gas-supply>да</gas-supply>
+    <sewerage-supply>да</sewerage-supply>
+  </offer>
+  <offer internal-id="ATUTA-YRL-005">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>участок</category>
+    <creation-date>2026-09-04T11:10:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:34:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Аксай</locality-name>
+      <address>СНТ Дон, участок 15</address>
+      <latitude>47.2670</latitude>
+      <longitude>39.8730</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>2200000</value>
+      <currency>RUR</currency>
+    </price>
+    <lot-area>
+      <value>8</value>
+      <unit>сотка</unit>
+    </lot-area>
+    <lot-type>садоводство</lot-type>
+    <image>https://picsum.photos/seed/atuta-yrl-5-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-5-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-5-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-5-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-5-5/1200/800.jpg</image>
+    <description>Тестовый земельный участок площадью 8 соток. Категория земли — садоводство. Электричество и вода доступны. Используется для проверки загрузки земельных участков, площади в сотках и типа участка.</description>
+    <electricity-supply>да</electricity-supply>
+    <water-supply>да</water-supply>
+  </offer>
+  <offer internal-id="ATUTA-YRL-006">
+    <type>продажа</type>
+    <category>гараж</category>
+    <garage-type>гараж</garage-type>
+    <creation-date>2026-09-05T10:30:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:35:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Ростов-на-Дону</locality-name>
+      <address>Орбитальная улица, 50</address>
+      <latitude>47.2920</latitude>
+      <longitude>39.7090</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>950000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>24</value>
+      <unit>кв. м</unit>
+    </area>
+    <image>https://picsum.photos/seed/atuta-yrl-6-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-6-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-6-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-6-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-6-5/1200/800.jpg</image>
+    <description>Продается тестовый железобетонный гараж площадью 24 кв. м. Есть электричество, смотровая яма и погреб. Используется для проверки специального набора полей категории гараж.</description>
+    <building-type>железобетонный</building-type>
+    <heating-supply>нет</heating-supply>
+    <electricity-supply>да</electricity-supply>
+    <water-supply>нет</water-supply>
+    <inspection-pit>да</inspection-pit>
+    <cellar>да</cellar>
+  </offer>
+  <offer internal-id="ATUTA-YRL-007">
+    <type>аренда</type>
+    <category>commercial</category>
+    <commercial-type>office</commercial-type>
+    <commercial-building-type>business center</commercial-building-type>
+    <deal-status>прямая аренда</deal-status>
+    <creation-date>2026-09-05T14:00:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:36:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Ростов-на-Дону</locality-name>
+      <address>Красноармейская улица, 200</address>
+      <latitude>47.2265</latitude>
+      <longitude>39.7118</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>120000</value>
+      <currency>RUR</currency>
+      <period>месяц</period>
+      <taxation-form>НДС</taxation-form>
+    </price>
+    <commission>0</commission>
+    <security-payment>100</security-payment>
+    <utilities-included>да</utilities-included>
+    <area>
+      <value>95</value>
+      <unit>кв. м</unit>
+    </area>
+    <image>https://picsum.photos/seed/atuta-yrl-7-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-7-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-7-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-7-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-7-5/1200/800.jpg</image>
+    <description>Сдается тестовый офис площадью 95 кв. м в бизнес-центре. Помещение с отделкой, расположено на 3 этаже. Есть интернет и парковка. Объявление проверяет импорт коммерческой недвижимости, аренды, НДС и обеспечительного платежа.</description>
+    <floor>3</floor>
+    <floors-total>8</floors-total>
+    <renovation>с отделкой</renovation>
+    <internet>да</internet>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="ATUTA-YRL-008">
+    <type>аренда</type>
+    <category>commercial</category>
+    <commercial-type>retail</commercial-type>
+    <commercial-building-type>shopping center</commercial-building-type>
+    <deal-status>прямая аренда</deal-status>
+    <creation-date>2026-09-06T09:00:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:37:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Краснодарский край</region>
+      <locality-name>Краснодар</locality-name>
+      <address>Красная улица, 120</address>
+      <latitude>45.0355</latitude>
+      <longitude>38.9753</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>180000</value>
+      <currency>RUR</currency>
+      <period>месяц</period>
+      <taxation-form>УСН</taxation-form>
+    </price>
+    <commission>0</commission>
+    <security-payment>100</security-payment>
+    <utilities-included>нет</utilities-included>
+    <area>
+      <value>110</value>
+      <unit>кв. м</unit>
+    </area>
+    <image>https://picsum.photos/seed/atuta-yrl-8-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-8-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-8-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-8-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-8-5/1200/800.jpg</image>
+    <description>Тестовое торговое помещение площадью 110 кв. м на первом этаже. Отдельный вход, витринная зона и парковка. Используется для проверки коммерческой категории retail и параметров аренды.</description>
+    <floor>1</floor>
+    <floors-total>5</floors-total>
+    <renovation>с отделкой</renovation>
+    <parking>да</parking>
+    <entrance-type>отдельный</entrance-type>
+  </offer>
+  <offer internal-id="ATUTA-YRL-009">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>продажа от застройщика</deal-status>
+    <creation-date>2026-09-06T13:15:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:38:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Краснодарский край</region>
+      <locality-name>Краснодар</locality-name>
+      <address>улица Героя Яцкова, 9</address>
+      <apartment>154</apartment>
+      <latitude>45.0610</latitude>
+      <longitude>39.0210</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>6200000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>48.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>21.5</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>13.2</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image tag="plan">https://picsum.photos/seed/atuta-yrl-9-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-9-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-9-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-9-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-9-5/1200/800.jpg</image>
+    <description>Тестовая однокомнатная квартира в новостройке. Общая площадь 48,3 кв. м, кухня 13,2 кв. м. Квартира расположена на 10 этаже 18-этажного дома. Объявление проверяет импорт новостройки, названия ЖК, корпуса и планировки.</description>
+    <rooms>1</rooms>
+    <rooms-offered>1</rooms-offered>
+    <floor>10</floor>
+    <floors-total>18</floors-total>
+    <renovation>под чистовую отделку</renovation>
+    <built-year>2026</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-name>ЖК Тестовый квартал</building-name>
+    <building-section>Корпус 1</building-section>
+  </offer>
+  <offer internal-id="ATUTA-YRL-010">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>прямая продажа</deal-status>
+    <creation-date>2026-09-07T10:00:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:39:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Азов</locality-name>
+      <address>Петровский бульвар, 14</address>
+      <apartment>8</apartment>
+      <latitude>47.1078</latitude>
+      <longitude>39.4165</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>4850000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>54.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.2</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>10.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>https://picsum.photos/seed/atuta-yrl-10-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-10-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-10-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-10-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-10-5/1200/800.jpg</image>
+    <description>Тестовая двухкомнатная квартира в Азове. Площадь 54,6 кв. м, кухня 10,5 кв. м, второй этаж. Используется для проверки другого города, адреса, координат и параметров вторичной квартиры.</description>
+    <rooms>2</rooms>
+    <rooms-offered>2</rooms-offered>
+    <floor>2</floor>
+    <floors-total>5</floors-total>
+    <building-type>кирпичный</building-type>
+    <built-year>2008</built-year>
+    <balcony>балкон</balcony>
+  </offer>
+</realty-feed>

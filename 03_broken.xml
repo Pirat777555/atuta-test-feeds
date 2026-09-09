@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-09-09T17:55:00+03:00</generation-date>
+  <offer internal-id="ATUTA-YRL-001">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Ростов-на-Дону</locality-name>

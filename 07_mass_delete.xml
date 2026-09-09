@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-09-09T17:55:00+03:00</generation-date>
+  <offer internal-id="ATUTA-YRL-001">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>прямая продажа</deal-status>
+    <creation-date>2026-09-01T10:15:00+03:00</creation-date>
+    <last-update-date>2026-09-08T12:30:00+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Ростовская область</region>
+      <locality-name>Ростов-на-Дону</locality-name>
+      <address>Пушкинская улица, 100</address>
+      <apartment>25</apartment>
+      <latitude>47.2313</latitude>
+      <longitude>39.7233</longitude>
+    </location>
+    <sales-agent>
+      <name>Тестовый агент Atuta</name>
+      <phone>+79990000001</phone>
+      <category>agency</category>
+      <organization>Atuta Test Realty</organization>
+      <email>feed-test@example.com</email>
+    </sales-agent>
+    <price>
+      <value>7500000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>65.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>39.8</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>https://picsum.photos/seed/atuta-yrl-1-1/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-2/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-3/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-4/1200/800.jpg</image>
+    <image>https://picsum.photos/seed/atuta-yrl-1-5/1200/800.jpg</image>
+    <description>Продается тестовая двухкомнатная квартира площадью 65,4 кв. м. Кухня 12,1 кв. м, комнаты изолированные. Квартира расположена на 5 этаже 10-этажного кирпичного дома. Выполнен современный ремонт, есть балкон. Объявление создано специально для проверки импорта XML-фида Яндекс Недвижимости в Atuta.</description>
+    <rooms>2</rooms>
+    <rooms-offered>2</rooms-offered>
+    <floor>5</floor>
+    <floors-total>10</floors-total>
+    <renovation>евроремонт</renovation>
+    <building-type>кирпичный</building-type>
+    <built-year>2018</built-year>
+    <ceiling-height>2.75</ceiling-height>
+    <balcony>балкон</balcony>
+    <bathroom-unit>совмещенный</bathroom-unit>
+  </offer>
+</realty-feed>
